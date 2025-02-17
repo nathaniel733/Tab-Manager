@@ -42,8 +42,6 @@
     <li>Managing permissions and ensuring security for user data.</li>
   </ul>
 
-  <h2>👨‍💻 Author</h2>
-  <p>Developed by: <strong>Your Name</strong></p>
-  <p>Licensed under the MIT License.</p>
+  
 </body>
 </html>

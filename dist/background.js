@@ -1,0 +1,1 @@
+chrome.runtime.onInstalled.addListener((function(){console.log("Tab Manager Extension Installed!")})),chrome.tabs.onCreated.addListener((function(e){console.log("New Tab Created:",e)}));
